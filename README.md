@@ -164,7 +164,7 @@ h1 {
 
 
 ## OUTPUT:
-c:\Users\acer\Pictures\Screenshots\Screenshot (38).png
+![alt text](cover.jpeg)
 
 
 ## RESULT:

@@ -164,7 +164,7 @@ h1 {
 
 
 ## OUTPUT:
-![alt text](cover.jpeg)
+[![alt text](cover.jpeg)]
 
 
 ## RESULT:
